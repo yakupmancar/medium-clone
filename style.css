@@ -1,0 +1,55 @@
+body {
+    font-family: 'PT Serif', serif;
+    color: black;
+
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.main-a {
+    text-decoration: none;
+    color: #333333;
+}
+
+.bg-yellow {
+    background-color: #FFC017;
+}
+
+.border-bottom-41 {
+    border-bottom: 1px solid rgba(41, 41, 41);
+}
+
+.navbar-nav .nav-link {
+    font-size: 14px;
+    color: black;
+}
+
+.medium {
+    font-size: 35px;
+}
+
+article h5 {
+    font-size: 25px
+}
+
+.aside-btn{
+    border: 1px solid lightgray;
+    color: lightslategray;
+}
+.aside-btn:hover{
+    color: lightslategray;
+}
+
+.aside-footer{
+    text-decoration: none;
+    color: lightslategray;
+    font-size: 13px;
+    font-weight: 600;
+    padding-right: 8px;
+}
+.aside-footer:hover{
+    text-decoration: none;
+    color: lightslategray;
+}
